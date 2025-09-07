@@ -18,7 +18,8 @@ Through this project, I practiced database design, data manipulation, and query 
 ---
 ## Project Structure
 
-### 1. 🗄 Database Setup  
+### 1. 🗄 Database Setup 
+<img width="2572" height="1492" alt="Library_management_system_erd(schemas) pgerd" src="https://github.com/user-attachments/assets/42eb9a0a-c80d-434e-95b3-99eb857e41f0" />
 
 - **Database Name**: `library_management_db`  
 - **Tables**: Branch, Employees, Members, Books, Issued Status, Return Status  
